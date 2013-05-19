@@ -4,7 +4,7 @@
   <title><![CDATA[止谈峰月]]></title>
   <link href="http://chanf.github.io/atom.xml" rel="self"/>
   <link href="http://chanf.github.io/"/>
-  <updated>2013-05-19T18:10:51+08:00</updated>
+  <updated>2013-05-19T18:28:28+08:00</updated>
   <id>http://chanf.github.io/</id>
   <author>
     <name><![CDATA[chan]]></name>
@@ -14,11 +14,24 @@
 
   
   <entry>
-    <title type="html"><![CDATA[HelloWorld]]></title>
+    <title type="html"><![CDATA[Helloworld]]></title>
     <link href="http://chanf.github.io/blog/2013/05/19/helloworld/"/>
-    <updated>2013-05-19T18:04:00+08:00</updated>
+    <updated>2013-05-19T00:00:00+08:00</updated>
     <id>http://chanf.github.io/blog/2013/05/19/helloworld</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>我的第一篇博客</h1>
+
+<p>&mdash;开始咯！
+&mdash;写博客
+&mdash;-哈哈哈哈哈</p>
+
+<hr />
+
+<p>layout: post
+title: &ldquo;HelloWorld&rdquo;
+date: 2013-05-19 18:04
+comments: true</p>
+
+<h2>categories: </h2>
 ]]></content>
   </entry>
   
