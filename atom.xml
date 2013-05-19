@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Chanf`s Octopress Blog]]></title>
+  <title><![CDATA[止谈峰月]]></title>
   <link href="http://chanf.github.io/atom.xml" rel="self"/>
   <link href="http://chanf.github.io/"/>
-  <updated>2013-05-19T18:06:57+08:00</updated>
+  <updated>2013-05-19T18:10:51+08:00</updated>
   <id>http://chanf.github.io/</id>
   <author>
     <name><![CDATA[chan]]></name>
